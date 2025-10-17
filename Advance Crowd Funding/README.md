@@ -259,6 +259,28 @@ npm run start
 npx hardhat run scripts/deploy.js --network <network-name>
 ```
 
+🧠 Run the App Locally
+Step 1 — Go to the web3 folder
+cd "c:/Users/HP/Downloads/Ganesha-notifi-nftreward-leader-milestone/Advance Crowd Funding/web3"
+
+Step 2 — Start the local Hardhat node
+npm run node
+
+Step 3 — Deploy the contracts locally (in a split terminal)
+npm run deploy-local
+
+Step 4 — Return to the main frontend folder
+cd ..
+
+Step 5 — Start the Next.js development server
+npm run dev
+
+
+Then open 👉 http://localhost:3000
+ in your browser.
+
+
+
 ---
 
 ## 🤝 Contributing
