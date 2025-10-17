@@ -1,8 +1,3 @@
-Here’s your **final, clean, and well-formatted README** version for
-🪙 **CrowdChain — A Decentralized Crowdfunding Platform** 👇
-
----
-
 # 🪙 CrowdChain — A Decentralized Crowdfunding Platform
 
 **Tech Stack:** Next.js | Solidity | Ethereum | Tailwind CSS | IPFS
@@ -297,11 +292,15 @@ Licensed under the **MIT License**
 * Ethereum community for developer support
 
 ---
+<img width="992" height="874" alt="Image" src="https://github.com/user-attachments/assets/adfd0a70-58fa-499e-be60-34fa227f4679" />
 
-## ✅ Summary
 
-CrowdChain merges **blockchain transparency** with **real-world crowdfunding usability**, enabling **secure**, **milestone-driven**, and **community-powered** fundraising.
+<img width="992" height="874" alt="Image" src="https://github.com/user-attachments/assets/02543fa1-95e3-4010-bc06-dc4d814fb44c" />
 
----
 
-Would you like me to make this version into a **ready-to-upload `README.md` file** for your GitHub repo?
+<img width="1092" height="1194" alt="Image" src="https://github.com/user-attachments/assets/3daf31ef-ca1d-4305-96ee-bbef8c15fb3e" />
+
+
+<img width="992" height="874" alt="Image" src="https://github.com/user-attachments/assets/233bd7e8-f2e9-4c3a-aab6-b14ad41bce3a" />
+
+<img width="1092" height="1643" alt="Image" src="https://github.com/user-attachments/assets/503ce10b-ab67-4e6b-97a2-e2b69f50b93c" />
