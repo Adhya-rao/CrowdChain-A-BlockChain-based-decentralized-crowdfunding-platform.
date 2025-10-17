@@ -1,5 +1,4 @@
 
-
 🪙 CrowdChain — A Decentralized Crowdfunding Platform
 
 Next.js | Solidity | Ethereum | Tailwind CSS | IPFS
