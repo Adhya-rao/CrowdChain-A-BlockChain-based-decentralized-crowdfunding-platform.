@@ -122,9 +122,9 @@ export default function NotificationPage() {
   return (
     <Layout>
       <div className="p-6 space-y-4">
-        <h1 className="text-2xl font-bold mb-4 text-black dark:text-white">
-          Notifications
-        </h1>
+       <h1 className="text-2xl font-bold mb-4 text-white">
+  Notifications
+</h1>
 
         {!isConnected && (
           <p className="text-red-500">

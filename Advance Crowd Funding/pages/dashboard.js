@@ -73,9 +73,11 @@ function Dashboard() {
 
         {/* Platform Statistics */}
         <div>
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-            Platform Statistics
-          </h2>
+             <h2 className="text-2xl font-bold text-white mb-6">
+  Platform Statistics
+</h2>
+
+
           <DashboardStats />
         </div>
 
@@ -149,9 +151,10 @@ function Dashboard() {
         {/* Featured Campaigns */}
         <div>
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
-              Featured Campaigns
-            </h2>
+           <h2 className="text-2xl font-bold text-white">
+  Featured Campaigns
+</h2>
+
             <button
               onClick={() => router.push("/campaigns")}
               className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium"

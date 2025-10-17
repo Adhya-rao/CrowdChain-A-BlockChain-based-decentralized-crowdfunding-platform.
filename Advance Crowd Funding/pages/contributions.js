@@ -159,9 +159,10 @@ export default function ContributionsPage() {
       <div className="space-y-8">
         {/* Header */}
         <div>
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
-            My Contributions
-          </h1>
+        <h1 className="text-3xl font-bold text-white mb-2">
+  My Contributions
+</h1>
+
           <p className="text-gray-600 dark:text-gray-400">
             Track your support for innovative projects
           </p>

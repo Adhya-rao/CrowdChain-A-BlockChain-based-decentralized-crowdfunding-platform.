@@ -232,3 +232,11 @@
     page-break-before: always;
   }
 }
+
+/* Custom background image for main content */
+.main-content-bg {
+  background-image: url('/image.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

@@ -21,7 +21,7 @@ export default function Layout({ children }) {
 
       <div
         className={`
-        transition-all duration-300 
+        transition-all duration-300 main-content-bg
         ${sidebarCollapsed ? "md:ml-16" : "md:ml-64"}
       `}
       >

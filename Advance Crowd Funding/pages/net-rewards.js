@@ -99,7 +99,7 @@ export default function NetRewardsPage() {
           Your Net Rewards
         </h1>
 
-        <h2 className="text-xl font-bold text-yellow-300 text-center mb-4">
+        <h2 className="text-xl font-bold text-white text-center mb-4">
           Level: {userLevel} ({totalETH.toFixed(3)} ETH earned)
         </h2>
 
@@ -137,7 +137,7 @@ export default function NetRewardsPage() {
 
         {/* 🏆 Leaderboard Section */}
         <div className="mt-12">
-          <h2 className="text-2xl font-bold text-center text-yellow-300 mb-6">
+          <h2 className="text-2xl font-bold text-center text-white mb-6">
             🏆 Top Contributors Leaderboard
           </h2>
 
